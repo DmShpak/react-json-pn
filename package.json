@@ -1,6 +1,6 @@
 {
   "name": "react-json-pn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stateless react component based on JSON template",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/DmShpak/react-json-pn.git"
   },
-  "author": "",
+  "author": "dm.shpak",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DmShpak/react-json-pn/issues"
