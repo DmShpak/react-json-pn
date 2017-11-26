@@ -1,0 +1,32 @@
+{
+  "name": "react-json-pn",
+  "version": "0.0.1",
+  "description": "Stateless react component based on JSON template",
+  "main": "index.js",
+  "scripts": {
+    "run": "tsc -w",
+    "prepublish": "tsc",
+    "test": "jasmine",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmShpak/react-json-pn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmShpak/react-json-pn/issues"
+  },
+  "homepage": "https://github.com/DmShpak/react-json-pn#readme",
+  "dependencies": {
+    "json-pn": "^1.0.1",
+    "react": "^16.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.25",
+    "jasmine": "^2.8.0",
+    "react-test-renderer": "^16.1.1",
+    "typescript": "^2.6.1"
+  }
+}
