@@ -2,7 +2,7 @@
   "name": "react-json-pn",
   "version": "0.0.1",
   "description": "Stateless react component based on JSON template",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "run": "tsc -w",
     "prepublish": "tsc",
